@@ -1,4 +1,4 @@
-'Spring Cloud Config Server' reads the config from the git config
+'Spring Cloud Config Server' reads the config from the git config GIT : https://github.com/in28minutes/spring-microservices-v3/tree/main/03.microservices
 
 Make sure in application.properties file param for config is correct in local 
   example:'spring.cloud.config.server.git.uri=file:///C:/Users/aramawta/workspace/backend/microservice/git-local-config-repo
